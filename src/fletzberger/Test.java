@@ -4,9 +4,9 @@ public class Test {
 
 	public static void main(String[] args) {
 		Hello.hallosimpel();
-		Hello.hallonormal("Michi");
+		Hello.hallonormal("Michaela");
 		Hello.hallohoeflich();
-		Hello.hallohoeflichnormal("Herr Fletzberger");
+		Hello.hallohoeflichnormal("Frau Boban");
 	}
 
 }
