@@ -1,0 +1,22 @@
+commit da2479007c87109a7f245acea429ef67c6d0441e
+Author: mfletzberger <mfletzberger@student.tgm.ac.at>
+Date:   Tue Feb 20 13:17:42 2018 +0100
+
+    gitlog hinzugefügt
+
+ gitlog.txt | 13 +++++++++++++
+ 1 file changed, 13 insertions(+)
+
+commit c31195bd54a26b4dbb273cf7c231dcb4ef58d071
+Author: mfletzberger <mfletzberger@student.tgm.ac.at>
+Date:   Tue Feb 20 12:41:11 2018 +0100
+
+    Test und Hello hinzugefügt
+
+ .classpath                           |  6 ++++++
+ .gitignore                           |  1 +
+ .project                             | 17 +++++++++++++++++
+ .settings/org.eclipse.jdt.core.prefs | 11 +++++++++++
+ src/fletzberger/Hello.java           | 16 ++++++++++++++++
+ src/fletzberger/Test.java            | 12 ++++++++++++
+ 6 files changed, 63 insertions(+)
